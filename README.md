@@ -11,6 +11,9 @@
   <img alt="Redux" height="30" width="40" title="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
   <img alt="Java" height="30" width="40" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img alt="Springboot" height="30" width="40" title="Springboot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Csharp" height="30" width="40" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img alt="dotnet" height="30" width="40" title="Dotnet"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img alt="Mysql" height="30" width="40" title="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <br>
   <br>
