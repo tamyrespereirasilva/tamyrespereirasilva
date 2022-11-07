@@ -1,4 +1,8 @@
-### Olá eu sou a Tamyres, Desenvolvedora Web FullStack! ⚡ ## 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=blue&center=true&vCenter=true&width=500&lines=Olá!+sou+a+Tamyres+👋🏽;Sou+uma+Desenvolvedora+Full+Stack+👩🏽‍💻;" alt="Olá, Meu nome é Tamyres.">
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/tamyrespereirasilva">
