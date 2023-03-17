@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=blue&center=true&vCenter=true&width=300&lines=Olá!+sou+a+Tamyres+👋🏽;Sou+uma+Desenvolvedora+Full+Stack+👩🏽‍💻;" alt="Olá, Meu nome é Tamyres.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=blue&center=true&vCenter=true&width=700&lines=Hi!+Call+me+Tamie+👋🏽+Full+Stack+Developer+💻;" alt="Olá, Meu nome é Tamyres.">
   </a>
 </div>
 <p>
