@@ -1,9 +1,6 @@
+## Hey, I'm Tamie! 
 <div align="center">
   <img align="right" src="https://64.media.tumblr.com/31fca450a7cf89369e51328b80f7c8d8/tumblr_mo7etqt46g1sutxdmo1_250.gif" width="260"/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=blue&center=true&vCenter=true&width=700&lines=Hi!+Call+me+Tamie+👋🏽+Full+Stack+Developer+💻;" alt="Olá, Meu nome é Tamyres.">
-  </a>
 </div>
 <p>
 🔭 I’m currently working on TiTa Therapy
