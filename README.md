@@ -1,4 +1,4 @@
- <img align="right" src="https://64.media.tumblr.com/31fca450a7cf89369e51328b80f7c8d8/tumblr_mo7etqt46g1sutxdmo1_250.gif" width="260"/>
+ <img align="right" src="https://64.media.tumblr.com/31fca450a7cf89369e51328b80f7c8d8/tumblr_mo7etqt46g1sutxdmo1_250.gif" width="200"/>
 
  ## Hey, I'm Tamie! 
 <div align="center">
@@ -14,8 +14,7 @@
 ⚡ Fun fact: collected puppies in the street 
   </p>
 
-<br><
-
+<br>
 <div align="center">
   <a href="https://github.com/tamyrespereirasilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tamyrespereirasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
