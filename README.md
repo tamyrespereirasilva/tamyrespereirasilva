@@ -12,7 +12,7 @@
 ⚡ Fun fact: collected puppies in the street 
   </p>
 
-<br>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/tamyrespereirasilva">
