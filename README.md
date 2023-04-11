@@ -1,7 +1,8 @@
  <img align="right" src="https://64.media.tumblr.com/31fca450a7cf89369e51328b80f7c8d8/tumblr_mo7etqt46g1sutxdmo1_250.gif" width="260"/>
 
-<div align="center">
  ## Hey, I'm Tamie! 
+<div align="center">
+
 </div>
 <p>
 🔭 I’m currently working on TiTa Therapy
