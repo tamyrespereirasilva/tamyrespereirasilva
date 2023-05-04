@@ -5,8 +5,6 @@
 
 </div>
 <p>
-🔭 I’m currently working on TiTa Therapy
-  <br>
 🌱 I’m currently learning books, courses, languages and frameworks
   <br>
 📫 How to reach me: tamyrestn88@gmail.com
