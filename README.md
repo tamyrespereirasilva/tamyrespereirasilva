@@ -9,7 +9,7 @@
   <br>
 📫 How to reach me: tamyrestn88@gmail.com
   <br>
-⚡ Fun fact: collected puppies in the street 
+⚡ Fun fact: collected puppies in the street and hid them at home
   </p>
 
 <br>
