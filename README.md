@@ -7,9 +7,8 @@
 <p>
 🌱 I’m currently learning books, courses, languages and frameworks
   <br>
-📫 How to reach me: tamyrestn88@gmail.com
-  <br>
-⚡ Fun fact: collected puppies in the street and hid them at home
+📫 How to reach me: tamyrespereirasil@gmail.com
+
   </p>
 
 <br>
@@ -21,24 +20,6 @@
 
  <br>
 
-<div align="center">
-  <img alt="HTML" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="CSS" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-
-  <img alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="Mysql" height="30" width="40" title="MySql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-                                                                                                                                         
-  <img alt="Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
-  <img alt="Github" height="30" width="40" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-
-</div>
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -49,7 +30,6 @@
 <br>
 
 <div align="center">
-<a href="https://twitter.com/tamiiedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamiiedev" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/tamyrespereirasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamyrespereirasilva" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/tamyrespereirasilvaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamyrespereirasilva" height="20" width="30" /></a>
 </div>
 
