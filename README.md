@@ -1,15 +1,12 @@
+ ## Hey, I'm Tamie! 
+
  <img align="right" src="https://64.media.tumblr.com/31fca450a7cf89369e51328b80f7c8d8/tumblr_mo7etqt46g1sutxdmo1_250.gif" width="200"/>
 
- ## Hey, I'm Tamie! 
-<div align="center">
-
-</div>
 <p>
 🌱 I’m currently learning books, courses, languages and frameworks
-  <br>
+<br>
 📫 How to reach me: tamyrespereirasil@gmail.com
-
-  </p>
+</p>
 
 <br>
 <div align="center">
@@ -17,8 +14,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tamyrespereirasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamyrespereirasilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
- <br>
+<br>
 
 
 <picture>
