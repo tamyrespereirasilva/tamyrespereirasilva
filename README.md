@@ -1,12 +1,12 @@
-## Hey, I'm Tamie! 
-🌱 Lifelong learning.
+<div>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTE1OHo3NzVvcDk1aGJocTMzMjNzd2FnbG1ob291OTgxeWo3M2Q3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uJy14yIR4NoPK/giphy.gif" width="200"/>
 
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZweGh1NXo5OXBpdzJhMmFscnNvNnVrNnE2cmI3cXppMm1vNWVoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcqCKYnrHiAgwpGqme/giphy.gif" width="200"/>
+</div>
 <img src="./.github/lineBar.png" width="100%" height="8px"/>
 <div align="center">
-
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tamyrespereirasilva&show_icons=true&count_private=true&title_color=ffffff&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"/>
-   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamyrespereirasilva&layout=compact&langs_count=7&theme=dark&text_color=c9d1d9"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tamyrespereirasilva&show_icons=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamyrespereirasilva&layout=compact&langs_count=7&theme=light&text_color=c9d1d9"/>
 </div>
 <img src="./.github/lineBar.png" width="100%" height="8px"/>
 
