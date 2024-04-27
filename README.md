@@ -1,27 +1,16 @@
  ## Hey, I'm Tamie! 
+ 
 
- <img align="right" src="https://64.media.tumblr.com/31fca450a7cf89369e51328b80f7c8d8/tumblr_mo7etqt46g1sutxdmo1_250.gif" width="200"/>
-
-<p>
 🌱 Lifelong learning.
-<br>
-📫 How to reach me: tamyrespereirasil@gmail.com
-</p>
 
 <br>
 <div align="center">
-  <a href="https://github.com/tamyrespereirasilva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tamyrespereirasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamyrespereirasilva&layout=compact&langs_count=7&theme=dark"/>
+
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tamyrespereirasilva&show_icons=true&count_private=true&title_color=ffffff&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"/>
+   
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamyrespereirasilva&layout=compact&langs_count=7&theme=dark&text_color=c9d1d9"/>
 </div>
 <br>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
 
