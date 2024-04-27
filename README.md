@@ -5,8 +5,8 @@
 </div>
 <img src="./.github/lineBar.png" width="100%" height="8px"/>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamyrespereirasilva&show_icons=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamyrespereirasilva&layout=compact&langs_count=7&theme=light&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamyrespereirasilva&show_icons=true&count_private=true&text_color=7D8F98"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamyrespereirasilva&layout=compact&langs_count=7&theme=light&text_color=7D8F98"/>
 </div>
 <img src="./.github/lineBar.png" width="100%" height="8px"/>
 
